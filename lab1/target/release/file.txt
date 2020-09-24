@@ -1,0 +1,13 @@
+finish
+Tiempo de multiplicacion de la matriz con tamaño200 : 43.876427ms
+finish
+Tiempo de multiplicacion de la matriz con tamaño100 : 9.395847ms
+finish
+Tiempo de multiplicacion de la matriz con tamaño300 : 132.714223ms
+finish
+Tiempo de multiplicacion de la matriz con tamaño400 : 356.675751ms
+finish
+Tiempo de multiplicacion de la matriz con tamaño500 : 650.218492ms
+finish
+Tiempo de multiplicacion de la matriz con tamaño600 : 1.408681928s
+Tiempo 6_loop tamanio 1500 bloque 2 : 35.259592009s

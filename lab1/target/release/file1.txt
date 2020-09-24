@@ -1,0 +1,7 @@
+Tiempo 6_loop tamanio 100 bloque 2 : 3.778396ms
+Tiempo 6_loop tamanio 200 bloque 2 : 25.953102ms
+Tiempo 6_loop tamanio 300 bloque 2 : 82.124508ms
+Tiempo 6_loop tamanio 400 bloque 2 : 180.394211ms
+Tiempo 6_loop tamanio 500 bloque 2 : 347.459524ms
+Tiempo 6_loop tamanio 600 bloque 2 : 575.836777ms
+Tiempo 6_loop tamanio 600 bloque 2 : 577.548845ms

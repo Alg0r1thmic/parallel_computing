@@ -1,0 +1,11 @@
+/home/serlog/Escritorio/Raúl/Semestre-2020-II/Paralelos/parallel_computing/lab1/target/release/deps/libtime_macros_impl-a3346049e0265ae8.so: /home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/lib.rs /home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/date.rs /home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/ext.rs /home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/offset.rs /home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time.rs /home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time_crate/mod.rs /home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time_crate/date.rs
+
+/home/serlog/Escritorio/Raúl/Semestre-2020-II/Paralelos/parallel_computing/lab1/target/release/deps/time_macros_impl-a3346049e0265ae8.d: /home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/lib.rs /home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/date.rs /home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/ext.rs /home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/offset.rs /home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time.rs /home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time_crate/mod.rs /home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time_crate/date.rs
+
+/home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/lib.rs:
+/home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/date.rs:
+/home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/ext.rs:
+/home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/offset.rs:
+/home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time.rs:
+/home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time_crate/mod.rs:
+/home/serlog/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time_crate/date.rs:
