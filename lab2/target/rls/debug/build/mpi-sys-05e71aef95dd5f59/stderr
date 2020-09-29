@@ -1,0 +1,4 @@
+warning: argument unused during compilation: '-L/usr//lib' [-Wunused-command-line-argument], err: false
+warning: argument unused during compilation: '-L/usr/lib/x86_64-linux-gnu/openmpi/lib' [-Wunused-command-line-argument], err: false
+error: toolchain 'nightly-x86_64-unknown-linux-gnu' is not installed
+Custom { kind: Other, error: "Internal rustfmt error" }
