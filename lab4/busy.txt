@@ -1,0 +1,28 @@
+Con n = 100000000 ,Numero de hilos =2 
+Tiempo en paralelo es 0.172894 seconds
+Tiempo secuencial es 0.329437 seconds
+                   pi = 3.141592653589793
+Con n = 100000000 ,Numero de hilos =4 
+Tiempo en paralelo es 0.110843 seconds
+Tiempo secuencial es 0.325297 seconds
+                   pi = 3.141592653589793
+Con n = 100000000 ,Numero de hilos =8 
+Tiempo en paralelo es 0.060739 seconds
+Tiempo secuencial es 0.320279 seconds
+                   pi = 3.141592653589793
+Con n = 100000000 ,Numero de hilos =16 
+Tiempo en paralelo es 0.059533 seconds
+Tiempo secuencial es 0.324015 seconds
+                   pi = 3.141592653589793
+Con n = 100000000 ,Numero de hilos =32 
+Tiempo en paralelo es 0.060686 seconds
+Tiempo secuencial es 0.329601 seconds
+                   pi = 3.141592653589793
+Con n = 100000000 ,Numero de hilos =64 
+Tiempo en paralelo es 0.058536 seconds
+Tiempo secuencial es 0.320120 seconds
+                   pi = 3.141592653589793
+Con n = 100000000 ,Numero de hilos =128 
+Tiempo en paralelo es 0.056959 seconds
+Tiempo secuencial es 0.318736 seconds
+                   pi = 3.141592653589793
